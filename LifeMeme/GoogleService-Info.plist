@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>484438227276-2eeuh1m7mck1q57frm2miqbou6h13dhv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.484438227276-2eeuh1m7mck1q57frm2miqbou6h13dhv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDeo4K22qM4vNIbK5Ue5PQBUxzPy9VWhVg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>484438227276</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>myapps.LifeMeme</string>
+	<key>PROJECT_ID</key>
+	<string>lifememe-99a4a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lifememe-99a4a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:484438227276:ios:e98f8db502b77f86</string>
+	<key>DATABASE_URL</key>
+	<string>https://lifememe-99a4a.firebaseio.com</string>
+</dict>
+</plist>
